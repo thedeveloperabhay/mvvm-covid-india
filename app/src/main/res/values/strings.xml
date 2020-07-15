@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM App</string>
+    <string name="text_search_here">Search here</string>
+    <string name="text_active_cases">Active cases</string>
+    <string name="text_total_cases">Total Cases</string>
+    <string name="text_recovered_cases">Recovered cases</string>
+    <string name="text_deceased_cases">Deceased cases</string>
+</resources>

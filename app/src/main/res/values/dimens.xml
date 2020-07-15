@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dimensions in DP  -->
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_56dp">56dp</dimen>
+    <dimen name="dimen_100dp">100dp</dimen>
+
+    <!-- Dimensions in SP  -->
+    <dimen name="text_dimen_4sp">4sp</dimen>
+    <dimen name="text_dimen_8sp">8sp</dimen>
+    <dimen name="text_dimen_16sp">16sp</dimen>
+    <dimen name="text_dimen_24sp">24sp</dimen>
+    <dimen name="text_dimen_48sp">48sp</dimen>
+</resources>

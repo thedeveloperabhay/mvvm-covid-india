@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    
+    <!--Base Collapsible Toolbar text theme-->
+    
+    <style name="expandedTextAppearance" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">?attr/colorAccent</item>
+    </style>
+
+    <style name="collapsedTextAppearance" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">?attr/colorAccent</item>
+    </style>
+
+    <!--Material TextView style-->
+    <style name="material_card_text_view" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+</resources>
